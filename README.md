@@ -1,9 +1,6 @@
 # Offline POS (Offline‑First) – Full Prototype
 
-This repository is a **submission‑ready prototype** for the **“POS Systems – Offline‑First Mobile/Web Applications”** assessment for a Senior Frontend Engineer role.
-
-The implementation focuses on **offline reliability, clean architecture, deterministic behavior, and performance‑conscious design**, aligned strictly with the assessment requirements.
-
+This repository is a **submission‑ready prototype** for the **“POS Systems – Offline‑First Mobile/Web Applications”**.
 ---
 
 ## 1. Quick Start (Mac)
@@ -88,14 +85,6 @@ Mock REST API
 ```
 
 Print Queue operates independently using local persistence and retry semantics.
-
-Key architectural principles:
-- Offline‑first (network is optional)
-- Event‑driven updates
-- Deterministic conflict resolution
-- Minimal dependencies
-
-(See `docs/ARCHITECTURE.pdf`)
 
 ---
 
