@@ -172,4 +172,3 @@ It is intentionally scoped to demonstrate **senior‑level frontend judgment**, 
 ---
 
 **Author:** Lokesh Pothu  
-**Role Target:** Senior Frontend Engineer  
