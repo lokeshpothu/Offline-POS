@@ -14,6 +14,8 @@ npm run start
 - **Mock REST API**: http://localhost:8787  
 
 ---
+### Quick Preview
+![Offline POS Demo](assets/demo.gif)
 
 ## 2. Offline‑First Validation (Recommended Demo Flow)
 
