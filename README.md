@@ -15,7 +15,7 @@ npm run start
 
 ---
 ### Quick Preview
-![Offline POS Demo](assets/demo.gif)
+[![Offline POS Demo](assets/demo.gif)](https://github.com/lokeshpothu/Offline-POS/raw/main/assets/demo.mov)
 
 ## 2. Offline‑First Validation (Recommended Demo Flow)
 
